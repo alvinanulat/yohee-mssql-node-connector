@@ -1,0 +1,4 @@
+dbuser = vin
+dbpass = vin
+dbserver = localhost
+dbname = master
